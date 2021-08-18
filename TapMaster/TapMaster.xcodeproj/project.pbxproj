@@ -22,10 +22,8 @@
 		577C79FA26CD7C6B00AF12A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		577C79FD26CD7C6B00AF12A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		577C79FF26CD7C6B00AF12A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-
 		E9C6C9A726CD81A900F2192D /* UIViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 		E9C6C9AB26CD81EB00F2192D /* GameHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameHomeViewController.swift; sourceTree = "<group>"; };
-
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +91,6 @@
 			path = Storyboards;
 			sourceTree = "<group>";
 		};
-
 		E9C6C9A426CD812800F2192D /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
@@ -191,7 +188,6 @@
 				E9C6C9AC26CD81EB00F2192D /* GameHomeViewController.swift in Sources */,
 				577C79F226CD7C6A00AF12A2 /* AppDelegate.swift in Sources */,
 				577C79F426CD7C6A00AF12A2 /* SceneDelegate.swift in Sources */,
-				577C7A0B26CD81BB00AF12A2 /* TapMaster.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -331,7 +327,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = SB3Q7W7XN7;
+				DEVELOPMENT_TEAM = PNQLC6535R;
 				INFOPLIST_FILE = TapMaster/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -350,7 +346,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = SB3Q7W7XN7;
+				DEVELOPMENT_TEAM = PNQLC6535R;
 				INFOPLIST_FILE = TapMaster/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
