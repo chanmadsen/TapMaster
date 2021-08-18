@@ -11,16 +11,15 @@ class TapMaster {
     
     var playerOneScore: Int
     var playerTwoScore: Int
-    var counterNumber: Int
     var timer: Timer
     
     
     
-    init(playerOneScore: Int, playerTwoScore: Int, counterNumber: Int, timer: Timer){
+    init(playerOneScore: Int, playerTwoScore: Int, timer: Timer = Timer()){
         self.playerOneScore = playerOneScore
         self.playerTwoScore = playerTwoScore
-        self.counterNumber = counterNumber
         self.timer = timer
+        
         
     }
 }//End of class
